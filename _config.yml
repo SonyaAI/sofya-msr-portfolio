@@ -1,0 +1,19 @@
+# Site settings
+title:              Portfolio Template
+email:              sofyaakhmametyeva2016@u.northwestern.edu
+description:        "Portfolio for the MSR program at Northwestern University"
+url:                "http://localhost:4000"
+baseurl:            /sofya-msr-portfolio
+
+# File structure settings
+image_path:         /public/images
+
+# Build settings
+markdown:           kramdown
+permalink:          pretty
+
+# Collection definitions and settings
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
