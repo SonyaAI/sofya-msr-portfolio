@@ -2,7 +2,7 @@
 layout: contact
 path: /contact
 url: index.html
-image: mars-rover-2004-large.jpg
+image: http://www.extremetech.com/wp-content/uploads/2013/07/atlas-darpa-robot-high-res.jpg
 ---
 
 Would like me to work on an interesting project or research? Please contact me anytime.

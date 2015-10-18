@@ -2,7 +2,7 @@
 layout: project
 title: Two-Wheel Balancing Robot
 date: May, 2013
-image: two-wheel-robot-wiring.png
+image: https://raw.githubusercontent.com/SonyaAI/sofya-msr-portfolio/gh-pages/public/images/two-wheel-robot.jpg
 ---
 
 ## Overview

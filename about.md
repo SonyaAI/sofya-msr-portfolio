@@ -2,7 +2,7 @@
 layout: about
 path: /about
 url: index.html
-image: MSR_Profile_1.jpg
+image: https://raw.githubusercontent.com/SonyaAI/sofya-msr-portfolio/gh-pages/public/images/MSR_Profile_1.jpg
 ---
 
 ## Intro
