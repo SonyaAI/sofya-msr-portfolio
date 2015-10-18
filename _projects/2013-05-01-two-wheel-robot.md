@@ -10,8 +10,8 @@ This was an undergraduate capstone project at the Ohio State University.
 
 The main goal of this project was construction of a small (~1 foot tall), two-wheeled, self-balancing robot similar to a Segway.  Such a device is a type of inverted pendulum.  The project was deemed appropriate because completion would require use of skills from multiple disciplines of engineering and physics.  Some of the major tasks required were mathematically modeling the device from equations of motion in Matlab/Simulink, drawing CAD schematics of the physical apparatus, programming a microcontroller, and physically wiring all required electronic hardware together.  In addition to the primary goal of a self-balancing prototype, one “stretch” goal conceived to be attempted after the primary goal was achieved was position control.  This was never attempted but remains possible if this project is to be continued.
 
-* Youtube video: https://www.youtube.com/watch?v=nkP_GO6Jyz8
-* Project website: https://sites.google.com/site/selfbalancingrobot2013/home 
+* [Youtube video](https://www.youtube.com/watch?v=nkP_GO6Jyz8)
+* [Project website](https://sites.google.com/site/selfbalancingrobot2013/home) 
 
 ### Main Components
 * Main Components: Orangutan SCP-1284p Microcontroller, Inertial Measurement Unit (IMU), Bluetooth Module
